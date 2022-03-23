@@ -1,0 +1,7 @@
+__pycache__
+.history
+.hypothesis/
+build/
+reports/
+*.ipynb_checkpoints
+.DS_Store
